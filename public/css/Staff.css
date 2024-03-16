@@ -44,14 +44,10 @@
   color: #fff;
 }
 .staff-card #principal{
-  background-image: url(../images/CLD_0120.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+  background-image: url(../images/PrincipalOffice.png);
 }
 .staff-card #DeanDiscipline{
-  background-image: url(../images/Robert.png);
-  background-position: center;
+  background-image: url(../images/CLD_0120.jpg);
 }
 .staff-card #DeanStudies{
   background-image: url(../images/CLD_0111.jpg);
@@ -61,26 +57,6 @@
 }
 .staff-card #secesc{
   background-image: url(../images/sec.jpeg);
-}
-.staff-card #anim1{
-  background-image: url(../images/Updates/Animation/a1.jpg);
-  background-size: cover;
-}
-.staff-card #anim2{
-  background-image: url(../images/Updates/Animation/a2.jpeg);
-  background-size: cover;
-  background-position: center 10%;
-  background-repeat: no-repeat;
-}
-.staff-card #anim3{
-  background-image: url(../images/Updates/Animation/a3.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: 100% -90px;
-}
-.staff-card #anim4{
-  background-image: url(../images/Updates/Animation/a4.jpg);
-  background-size: cover;
 }
 .EventGrid #StaffEvent1 {
   background-image: url(../WhatsAppImages/Principal-usa2edited.jpg);
